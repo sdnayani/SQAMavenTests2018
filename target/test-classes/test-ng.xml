@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SampleTests" verbose="10">
+<test name="SampleTests">
+    <classes>
+	       
+	         <class name = "week2.day4.tests.testLinearSearch">
+	           <methods>
+	                <include name="testLenierSearchMethod"/>
+	  
+	          
+	         </methods>
+	         </class>
+   </classes>
+
+</test>
+</suite>

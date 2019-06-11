@@ -1,0 +1,28 @@
+	<?xml version = "1.0" encoding = "UTF-8"?>
+	<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+	<suite name = "Suite1">
+	   <test name = "test1">
+	      <classes>
+	       
+	         <class name = "week2.day1.examples.testLinearSearch">
+	         
+	         <methods>
+	            <include name="testLenierSearchMethod"/>
+	  
+	          
+	         </methods>
+	         
+	         </class>
+          
+       <class name = "week2.day1.examples.testComputeSum"/>
+         <!-- 
+         <class name = "week2.day1.examples.testIfElse">
+         <methods>
+            <include name="testCheckCondition"/>
+          
+         </methods>
+         </class>
+         -->
+      </classes>
+   </test>
+</suite>

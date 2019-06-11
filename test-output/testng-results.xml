@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2019-05-18T15:30:09Z" finished-at="2019-05-18T15:30:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2019-05-18T15:30:09Z" finished-at="2019-05-18T15:30:09Z">
+      <class name="week3.day3.DataProviders.InstanceDataProviderExample">
+        <test-method status="PASS" signature="instanceDbProvider(int, java.lang.String, java.lang.String)[pri:0, instance:week3.day3.DataProviders.InstanceDataProviderExample@68837a77]" name="instanceDbProvider" duration-ms="7" started-at="2019-05-18T15:30:09Z" finished-at="2019-05-18T15:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[five]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[two]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="instanceDbProvider(int, java.lang.String, java.lang.String)[pri:0, instance:week3.day3.DataProviders.InstanceDataProviderExample@68837a77]" name="instanceDbProvider" duration-ms="1" started-at="2019-05-18T15:30:09Z" finished-at="2019-05-18T15:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[six]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[six1]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="instanceDbProvider(int, java.lang.String, java.lang.String)[pri:0, instance:week3.day3.DataProviders.InstanceDataProviderExample@68837a77]" name="instanceDbProvider" duration-ms="1" started-at="2019-05-18T15:30:09Z" finished-at="2019-05-18T15:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[seven]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[seven1]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="instanceDbProvider(int, java.lang.String, java.lang.String)[pri:0, instance:week3.day3.DataProviders.InstanceDataProviderExample@68837a77]" name="instanceDbProvider" duration-ms="1" started-at="2019-05-18T15:30:09Z" finished-at="2019-05-18T15:30:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[eight]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[eight1]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
